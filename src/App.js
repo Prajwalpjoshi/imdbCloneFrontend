@@ -7,7 +7,7 @@ import Pagination from "./components/Pagination";
 import Search from "./components/Search";
 import "./App.css";
 
-const base_url = https://imdbclonebackend.onrender.com;
+const base_url = 'https://imdbclonebackend.onrender.com';
 
 function App() {
   const [obj, setObj] = useState({});
