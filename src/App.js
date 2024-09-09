@@ -7,7 +7,7 @@ import Pagination from "./components/Pagination";
 import Search from "./components/Search";
 import "./App.css";
 
-const base_url = process.env.REACT_APP_API_URL;
+const base_url = https://imdbclonebackend.onrender.com;
 
 function App() {
   const [obj, setObj] = useState({});
